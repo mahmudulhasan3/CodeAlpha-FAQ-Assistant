@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "category": "About",
+    "questions": [
+      "What is CodeAlpha?",
+      "Tell me about CodeAlpha",
+      "Who is CodeAlpha?"
+    ],
+    "answer": "CodeAlpha is a software development company that runs virtual internship programs for students.",
+    "verified": false
+  },
+  {
+    "id": 2,
+    "category": "About",
+    "questions": [
+      "What does CodeAlpha offer?",
+      "What services does CodeAlpha provide?",
+      "What can I find on the CodeAlpha website?"
+    ],
+    "answer": "The CodeAlpha website describes itself as a student ecosystem with virtual internships, an online compiler, tutorials and interview preparation.",
+    "verified": false
+  },
+  {
+    "id": 3,
+    "category": "About",
+    "questions": [
+      "Is the internship online?",
+      "Is CodeAlpha internship virtual?",
+      "Do I need to go to an office?"
+    ],
+    "answer": "CodeAlpha offers virtual internships, so you work remotely.",
+    "verified": false
+  },
+  {
+    "id": 4,
+    "category": "About",
+    "questions": [
+      "Is the internship free or paid?",
+      "Do interns get a stipend?",
+      "Do I have to pay for the internship?"
+    ],
+    "answer": "Some third-party sources say the internship is unpaid and has no stipend. Please confirm the current details on the official CodeAlpha website.",
+    "verified": false
+  },
+  {
+    "id": 5,
+    "category": "About",
+    "questions": [
+      "Who can join the internship?",
+      "Am I eligible for the internship?",
+      "Can students apply?"
+    ],
+    "answer": "CodeAlpha is aimed mainly at students and learners who want practical project experience. Check the official website for the exact eligibility rules.",
+    "verified": false
+  },
+  {
+    "id": 6,
+    "category": "About",
+    "questions": [
+      "How can I apply for the internship?",
+      "How do I join CodeAlpha?",
+      "What is the application process?"
+    ],
+    "answer": "Apply through the official CodeAlpha website at codealpha.tech and follow the application steps shown there.",
+    "verified": false
+  },
+  {
+    "id": 7,
+    "category": "About",
+    "questions": [
+      "How long is the internship?",
+      "What is the internship duration?",
+      "How many months does the internship last?"
+    ],
+    "answer": "The duration depends on the domain and batch, and different task guides mention different time periods. Check your own task guide for the exact period.",
+    "verified": false
+  },
+  {
+    "id": 8,
+    "category": "Domains",
+    "questions": [
+      "Which internship domains are available?",
+      "What domains does CodeAlpha offer?",
+      "What fields can I choose for the internship?"
+    ],
+    "answer": "CodeAlpha has published task guides for domains such as Python Programming, Web Development, Full Stack Development, Frontend Development, App Development, Java Programming, Data Analytics and Cloud Computing. The list can change, so check the official website.",
+    "verified": false
+  },
+  {
+    "id": 9,
+    "category": "Domains",
+    "questions": [
+      "Is there an AI or machine learning internship?",
+      "Does CodeAlpha have a data science domain?",
+      "Can I do an AI internship at CodeAlpha?"
+    ],
+    "answer": "Domains change between batches. Please check the official website or your own domain's task guide for the current list.",
+    "verified": false
+  },
+  {
+    "id": 10,
+    "category": "Perks",
+    "questions": [
+      "What do I get after joining the internship?",
+      "What are the internship perks?",
+      "What benefits does CodeAlpha give?"
+    ],
+    "answer": "The listed perks include an internship offer letter, a completion certificate, a QR verified certificate, a unique ID certificate, a performance-based letter of recommendation, placement support and resume building.",
+    "verified": false
+  },
+  {
+    "id": 11,
+    "category": "Perks",
+    "questions": [
+      "Do I get an offer letter?",
+      "Is an internship offer letter provided?",
+      "Will I receive a joining letter?"
+    ],
+    "answer": "An internship offer letter is listed among the internship perks.",
+    "verified": false
+  },
+  {
+    "id": 12,
+    "category": "Perks",
+    "questions": [
+      "Is the certificate QR verified?",
+      "Does the certificate have a unique ID?",
+      "Can my certificate be verified?"
+    ],
+    "answer": "The perks list mentions a QR verified certificate and a unique ID certificate, which are meant to make the certificate verifiable.",
+    "verified": false
+  },
+  {
+    "id": 13,
+    "category": "Perks",
+    "questions": [
+      "Can I get a letter of recommendation?",
+      "Does CodeAlpha give an LOR?",
+      "Is a recommendation letter available?"
+    ],
+    "answer": "A letter of recommendation is listed as a perk and is based on your performance.",
+    "verified": false
+  },
+  {
+    "id": 14,
+    "category": "Perks",
+    "questions": [
+      "Does CodeAlpha help with jobs?",
+      "Is placement support available?",
+      "Is there resume building support?"
+    ],
+    "answer": "Job opportunities or placement support and resume building support are listed among the internship perks.",
+    "verified": false
+  },
+  {
+    "id": 15,
+    "category": "Tasks",
+    "questions": [
+      "How many tasks do I need to complete?",
+      "What is the minimum number of tasks?",
+      "How many tasks are required for the certificate?"
+    ],
+    "answer": "It depends on your domain and batch. Many guides say a minimum of two or three tasks must be completed, so check your own task guide.",
+    "verified": false
+  },
+  {
+    "id": 16,
+    "category": "Tasks",
+    "questions": [
+      "What if I complete only one task?",
+      "Can I get a certificate with one task?",
+      "Is one task enough?"
+    ],
+    "answer": "Several guides say that submitting only one task is considered incomplete and the certificate may not be issued.",
+    "verified": false
+  },
+  {
+    "id": 17,
+    "category": "Tasks",
+    "questions": [
+      "Is the first task compulsory?",
+      "Do I have to submit Task 1?",
+      "What if I skip the first task?"
+    ],
+    "answer": "In some guides the first task is compulsory, and certificate generation may not be possible without it. Check your own task guide to see if this applies to you.",
+    "verified": false
+  },
+  {
+    "id": 18,
+    "category": "Tasks",
+    "questions": [
+      "What is the FAQ chatbot task?",
+      "What do I have to do in Task 2?",
+      "Describe the chatbot for FAQs task"
+    ],
+    "answer": "Task 2 is a chatbot for FAQs. Collect FAQs about a topic or product, preprocess the text with NLP libraries like NLTK or SpaCy, match user questions to the most similar FAQ using cosine similarity or intent matching, and display the best matching answer as the chatbot response.",
+    "verified": true
+  },
+  {
+    "id": 19,
+    "category": "Tasks",
+    "questions": [
+      "Which libraries can I use for the chatbot task?",
+      "Should I use NLTK or SpaCy?",
+      "How should the chatbot match questions?"
+    ],
+    "answer": "The task suggests NLP libraries such as NLTK or SpaCy for preprocessing, and techniques such as cosine similarity or intent matching to find the most similar FAQ.",
+    "verified": true
+  },
+  {
+    "id": 20,
+    "category": "Tasks",
+    "questions": [
+      "Is a chat UI required?",
+      "Do I need to build a user interface for the chatbot?",
+      "Is the chat interface optional?"
+    ],
+    "answer": "A simple chat UI is optional for the FAQ chatbot task, but it makes the project easier to demonstrate.",
+    "verified": true
+  },
+  {
+    "id": 21,
+    "category": "Tasks",
+    "questions": [
+      "Can I choose which tasks to complete?",
+      "Do I pick my own tasks?",
+      "Can I skip some tasks?"
+    ],
+    "answer": "Some guides ask you to complete any two or three of the assigned tasks, and others list tasks you must complete. Check your own task guide for the rule that applies to you.",
+    "verified": false
+  },
+  {
+    "id": 22,
+    "category": "Submission",
+    "questions": [
+      "How do I submit my completed task?",
+      "Where do I submit my project?",
+      "How to submit internship work?"
+    ],
+    "answer": "Submit your completed task using the official Submission Form.",
+    "verified": false
+  },
+  {
+    "id": 23,
+    "category": "Submission",
+    "questions": [
+      "What should I name my GitHub repository?",
+      "How do I name the project repo?",
+      "GitHub repository naming rule"
+    ],
+    "answer": "Upload your complete source code to GitHub in a repository named CodeAlpha_ProjectName.",
+    "verified": false
+  },
+  {
+    "id": 24,
+    "category": "Submission",
+    "questions": [
+      "Do I need to post on LinkedIn?",
+      "How do I share my internship status on LinkedIn?",
+      "Should I tag CodeAlpha on LinkedIn?"
+    ],
+    "answer": "Share your internship status on LinkedIn and tag @CodeAlpha.",
+    "verified": false
+  },
+  {
+    "id": 25,
+    "category": "Submission",
+    "questions": [
+      "Is a project video required?",
+      "Do I need to make a video explanation?",
+      "Where do I post the project video?"
+    ],
+    "answer": "Post a video explanation of your project on LinkedIn along with the GitHub repository link.",
+    "verified": false
+  },
+  {
+    "id": 26,
+    "category": "Submission",
+    "questions": [
+      "What is the submission deadline?",
+      "How much time do I get for each task?",
+      "When must I submit my tasks?"
+    ],
+    "answer": "The time limit depends on the domain and batch. Some guides mention a few days, some mention fifteen days and some use weekly tasks. Check your own task guide for the exact deadline.",
+    "verified": false
+  },
+  {
+    "id": 27,
+    "category": "Submission",
+    "questions": [
+      "What do I need to submit?",
+      "What are the submission requirements?",
+      "What should be included in my submission?"
+    ],
+    "answer": "Upload your full source code to GitHub, post your progress and a video explanation on LinkedIn with the repository link, and submit the task through the Submission Form.",
+    "verified": false
+  },
+  {
+    "id": 28,
+    "category": "Submission",
+    "questions": [
+      "What if I miss the deadline?",
+      "Can I submit late?",
+      "What happens if I am late with a task?"
+    ],
+    "answer": "The guides say tasks should be completed within the given time frame but do not clearly explain late submissions. Please contact CodeAlpha support to ask.",
+    "verified": false
+  },
+  {
+    "id": 29,
+    "category": "Certificate",
+    "questions": [
+      "How can I earn the completion certificate?",
+      "What do I need to do to get the certificate?",
+      "When will I get my certificate?"
+    ],
+    "answer": "You become eligible for the certificate by completing the minimum required tasks and submitting them through the Submission Form within the given time.",
+    "verified": false
+  },
+  {
+    "id": 30,
+    "category": "Certificate",
+    "questions": [
+      "I did not receive my certificate",
+      "What should I do if my certificate is missing?",
+      "Certificate not generated, what now?"
+    ],
+    "answer": "First check that you completed the minimum number of tasks and submitted them correctly, then contact CodeAlpha support with your details.",
+    "verified": false
+  },
+  {
+    "id": 31,
+    "category": "Support",
+    "questions": [
+      "How can I contact CodeAlpha?",
+      "What is the CodeAlpha support email?",
+      "Where can I ask for help?"
+    ],
+    "answer": "You can contact CodeAlpha at support@codealpha.tech. Some guides also list services.codealpha@gmail.com, so check your task guide for the latest contact details.",
+    "verified": false
+  },
+  {
+    "id": 32,
+    "category": "Support",
+    "questions": [
+      "Does CodeAlpha have learning resources?",
+      "Is there an online compiler?",
+      "Can I prepare for interviews on CodeAlpha?"
+    ],
+    "answer": "The CodeAlpha website mentions an online compiler, tutorials and interview preparation material alongside its internships.",
+    "verified": false
+  }
+]
