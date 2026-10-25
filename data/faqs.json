@@ -38,7 +38,9 @@
     "questions": [
       "Is the internship free or paid?",
       "Do interns get a stipend?",
-      "Do I have to pay for the internship?"
+      "Do I have to pay for the internship?",
+      "Is the internship unpaid?",
+      "Is there any fee or salary?"
     ],
     "answer": "Some third-party sources say the internship is unpaid and has no stipend. Please confirm the current details on the official CodeAlpha website.",
     "verified": false
@@ -214,7 +216,8 @@
     "questions": [
       "Is a chat UI required?",
       "Do I need to build a user interface for the chatbot?",
-      "Is the chat interface optional?"
+      "Is the chat interface optional?",
+      "Do I need a GUI or graphical interface?"
     ],
     "answer": "A simple chat UI is optional for the FAQ chatbot task, but it makes the project easier to demonstrate.",
     "verified": true
@@ -335,7 +338,9 @@
     "questions": [
       "How can I contact CodeAlpha?",
       "What is the CodeAlpha support email?",
-      "Where can I ask for help?"
+      "Where can I ask for help?",
+      "Who do I email for support?",
+      "How do I get in touch with the support team?"
     ],
     "answer": "You can contact CodeAlpha at support@codealpha.tech. Some guides also list services.codealpha@gmail.com, so check your task guide for the latest contact details.",
     "verified": false
