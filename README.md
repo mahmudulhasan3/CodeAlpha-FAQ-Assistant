@@ -83,7 +83,7 @@ Python, Streamlit, scikit-learn, NLTK
 ## Author
 
 **Mahmudul Hasan**: CSE student at NITER, Aspiring AI Engineer
-- GitHub: [@mahmudul-hasan3](https://github.com/mahmudul-hasan3)
-- LinkedIn: [mahmudulhasan03](https://www.linkedin.com/in/mahmudulhasan03/)
+- GitHub: [@mahmudulhasan3](https://github.com/mahmudulhasan3)
+- LinkedIn: [@mahmudulhasan03](https://www.linkedin.com/in/mahmudulhasan03/)
 
 Built as part of the CodeAlpha internship (Task 2: FAQ Chatbot).
